@@ -1,7 +1,4 @@
-.container{
-    background-color: blue;
-    color:azure;
-}
+
 
 .color1{
     background-color: brown;
@@ -11,4 +8,34 @@
     background-color: rgb(42, 130, 165);
 }
 
+.colorIz{
+    background-color: blue;
+    color: white;
+}
 
+.colorSubtitulo{
+    background-color: rgb(4, 4, 122);
+    color: white;
+    width: 100%;
+}
+
+.bar {
+    height: 20px;
+    width: 100%;
+    background-color: #22c0e8;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.porcentaje {
+    width: 70%;
+    height: 20px;
+    background-color: #d4d9df;
+    border-radius: 10px;
+
+}
+
+.img-fluid {
+    border-radius: 50%;
+    border: 3px solid #22c0e8;
+}
